@@ -4,10 +4,10 @@ Esse é um repositório que contém a automação de alguns testes Web de um sof
 
 ## Tecnologias Utilizadas
 
-Cypress - https://www.cypress.io/
-CLI com Gitbash e Hyper - https://hyper.is https://gitforwindows.org
-Nodejs 16 LTS - https://nodejs.org
-Elephant SQL - https://www.elephantsql.com/
+ - Cypress - https://www.cypress.io/
+ - CLI com Gitbash e Hyper - https://hyper.is https://gitforwindows.org
+ - Nodejs 16 LTS - https://nodejs.org
+ - Elephant SQL - https://www.elephantsql.com/
 
 ## Testes Automatizados
 
